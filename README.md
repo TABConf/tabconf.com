@@ -1,2 +1,1 @@
 # tabconf
-tabconf defaut
